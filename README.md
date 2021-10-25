@@ -30,6 +30,14 @@ l = turn left
 s = scan object  
 1, 2, ... N = object ID (based on input file)
 
+#### How to run (video demo below)
+1. Clone project into directory
+2. Navigate to build folder
+3. Run sim.exe (if error shows up, look at point 3 of some points)
+4. Click on load object, up 1 folder and click input.txt
+5. Select an algorithm
+6. Click simulate!
+
 #### Some points
 
 1. There are some invalid locations such as 1 1, 20 20, etc.  
