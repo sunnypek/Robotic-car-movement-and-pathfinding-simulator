@@ -30,7 +30,9 @@ l = turn left
 s = scan object  
 1, 2, ... N = object ID (based on input file)
 
-#### How to run (video demo below)
+---
+
+### How to run (video demo below)
 1. Clone project into directory
 2. Navigate to build folder
 3. Run sim.exe (if error shows up, look at point 3 of some points)
