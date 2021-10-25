@@ -15,12 +15,20 @@ An example of the input file is as follows:
 17 2 4  
 16 17 3
 
-The first line tells the program how many objects it must go to.  
-The following lines tells the program where the objects are and which side of the square the object is at.  
+The first line (N) tells the program how many objects it must go to.  
+The following N lines tells the program where the objects are and which side of the square the object is at.  
 1 = North  
 2 = East  
 3 = South  
 4 = West
+
+#### Understanding pathing output
+f = move forward  
+b = move back  
+r = turn right  
+l = turn left  
+s = scan object  
+1, 2, ... N = object ID (based on input file)
 
 #### Some points
 
