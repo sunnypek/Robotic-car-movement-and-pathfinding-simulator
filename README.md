@@ -63,4 +63,4 @@ C++, Qt
 ---
 
 ### Video
-[![Simulator Demo]({![image](https://user-images.githubusercontent.com/53026868/138633269-0d11e9a3-0f44-4a15-862f-d7f75d6ae46d.png)})]({https://gmlschools-my.sharepoint.com/:v:/g/personal/7719_keyexprress_club/ERdJti4fjiJDvesa4ivUX1MB001jF6sjbLwNakMQ-jCRGg?e=mpRKmi} "Simulator Demo")
+https://user-images.githubusercontent.com/53026868/138633719-fb5ea17a-837c-4aaf-92e6-0470650ce73a.mp4
